@@ -1,0 +1,214 @@
+Package: jobslotreservation
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 4759
+Depends: xrm (>= 0.7.0), libboost-thread-dev
+Filename: ./jobSlotReservation-0.0.2-Linux.deb
+Size: 726724
+MD5sum: e1f119e295c9c60b891aee08de54afb6
+SHA1: 493a3ceba41a413c57e8d18445565438b62c9425
+SHA256: 40efc9cee3884cea7958e48cdcac849302310cfb9248f1dbb1249cbacee60aaf
+Section: devel
+Priority: optional
+Description: Xilinx JobSlotReservation
+
+Package: launcher
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 4850
+Depends: xrm (>= 0.7.0), libboost-thread-dev
+Filename: ./launcher-0.0.2-Linux.deb
+Size: 746828
+MD5sum: 65931676936c07e9c4cd03404ba99d6b
+SHA1: 6320e8c55abc1a355a5a421dced25bd3406feed1
+SHA256: 2e5bca04c0f9964b81ee48cfbaa1452ca67c468469bf60b5831669ab1f6c2f1e
+Section: devel
+Priority: optional
+Description: Xilinx Worker/Launcher
+
+Package: xcdr
+Version: 0.2.10
+Architecture: amd64
+Maintainer: John Nichols <jnichol@xilinx.com>
+Installed-Size: 109256
+Depends: xffmpeg (>= 4.1.6), xmpsoccodecs (>= 0.0.16), xmultiscaler (>= 0.0.8), xlookahead (>= 0.0.4), xmapropstojson (>= 0.0.2), xrm (>= 0.7.0), xrmu30decoder (>= 0.0.2), xrmu30scaler (>= 0.0.2), xrmu30encoder (>= 0.0.2), launcher (>= 0.0.2), jobslotreservation (>= 0.0.2)
+Filename: ./xcdr-0.2.10-Linux.deb
+Size: 65153152
+MD5sum: c69610d873ad4227fda040e18c524b50
+SHA1: 90d025b66f814923c3f3236f767cbe64fbca1f25
+SHA256: eb4e67e90a5438a4b6ee9a3ab751d2ebc1fe3c7b0faf92abbc70be5ee2849ae8
+Section: devel
+Priority: optional
+Description: Xilinx Transcoder Application for MPSoC Device
+
+Package: xffmpeg
+Version: 4.1.6
+Architecture: amd64
+Maintainer: John Nichols <jnichol@xilinx.com>
+Installed-Size: 61035
+Depends: xrt (>= 2.3.0), libsndio6.1, libsdl2-dev, libva-dev
+Filename: ./xffmpeg-4.1.6-Linux.deb
+Size: 9114728
+MD5sum: 64da76e30c757ab9f135d127f7f7dd7e
+SHA1: 653cbc581023b50a7a49e73cc8f33668ef373757
+SHA256: a28777721d6bb3a61bdc700e25258409624250fed939b5e982702dbf4f7229e8
+Section: devel
+Priority: optional
+Description: FFmpeg with Xilinx Accelerators
+
+Package: xlookahead
+Version: 0.0.4
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 100
+Depends: xrt (>= 2.3.0)
+Filename: ./xlookahead-0.0.4-Linux.deb
+Size: 35928
+MD5sum: db390c9ec75e7bee6964e0a3679e7dc9
+SHA1: aa26cd978bfd5481aa2d82b965a26ba7a3a0652a
+SHA256: f55f57a644123e7f38d716d1d65510946c477455f7be5d4b3622f326e8095591
+Section: devel
+Priority: optional
+Description: Xilinx Lookahead Plugin
+
+Package: xmapropstojson
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 1649
+Depends: xrt (>= 2.3.0)
+Filename: ./xmaPropsTOjson-0.0.2-Linux.deb
+Size: 338406
+MD5sum: 2d5ddd2557df2e80d9c52f18144e732b
+SHA1: 1778aaf38887bce18204350f6699117bc161c013
+SHA256: df08ab39e9efa79a172d51b1521349600876173b6ca133137b029af927b6e5c2
+Section: devel
+Priority: optional
+Description: Xilinx MPSoC XMA Props To Json Plugin
+
+Package: xmpsoccodecs
+Version: 0.0.16
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 346
+Depends: xrt (>= 2.3.0)
+Filename: ./xmpsoccodecs-0.0.16-Linux.deb
+Size: 132626
+MD5sum: 6f89401f9a93f548fa1f28c1d5d96ccb
+SHA1: 57db7b3f23679a1b1f081966ad6314437875475c
+SHA256: db01f7d9273c3da05e52515373ba7d63af5d841d6f4397ebd53c8eed456fc93c
+Section: devel
+Priority: optional
+Description: Xilinx MPSoC H264/HEVC Encoder and Decoder Plugins
+
+Package: xmultiscaler
+Version: 0.0.8
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 172
+Depends: xrt (>= 2.3.0)
+Filename: ./xmultiscaler-0.0.8-Linux.deb
+Size: 65690
+MD5sum: 76a119afc6d903e039953873479a73e7
+SHA1: 8502a5e04fa535cfa33ecf63a85a617dc85187ad
+SHA256: 74af82e32cb51e1e04763bb7553d54a955333cb0404f56d22d0e78b48a9971d9
+Section: devel
+Priority: optional
+Description: Xilinx Multi-Scaler Plugin
+
+Package: xrm
+Version: 1.0.116
+Architecture: amd64
+Maintainer: XRM Development Team<xrm_dev@xilinx.com>
+Installed-Size: 3608
+Depends: xrt (>= 2.1.0),
+                                  libboost-serialization-dev (>= 1.58.0),
+                                  libboost-system-dev (>= 1.58.0),
+                                  libboost-filesystem-dev (>= 1.58.0),
+                                  libboost-thread-dev (>= 1.58.0)
+Filename: ./xrm_202010.1.0.116_16.04-x86_64.deb
+Size: 549514
+MD5sum: df8400c3fbd7e2eabe2d5a0be86fabfc
+SHA1: 2d4cb73dc05e95a498d11f9e53caf4cf28c3390e
+SHA256: 9cc4de2f6681dedd5248b4236e568f0144f9f053a403f4a526989187df4134a7
+Section: devel
+Priority: optional
+Description: Xilinx FPGA Resource Management (XRM)
+
+Package: xrmu30decoder
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 4880
+Depends: xrt (>= 2.3.0)
+Filename: ./xrmU30Decoder-0.0.2-Linux.deb
+Size: 765848
+MD5sum: d7da80bd8849561ade7c7782daaf6830
+SHA1: da839a7d2c149ce6c79b290897bd78139bd77b0a
+SHA256: 56fe55954e0911a05da58f5cba0deb9727d4d2762c08f553be62b8eac7a32000
+Section: devel
+Priority: optional
+Description: Xilinx MPSoC XRM Decoder Plugin
+
+Package: xrmu30encoder
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 4884
+Depends: xrt (>= 2.3.0)
+Filename: ./xrmU30Encoder-0.0.2-Linux.deb
+Size: 766918
+MD5sum: d4c2f313eba891926019131c555ae5bb
+SHA1: 343362425f3e71d375ffe11dd6da3bc6aa7f5495
+SHA256: 7c8c924db9f5b97104f4fd7c64b6ac7c492c5826b0b9bdebe499099a4963b071
+Section: devel
+Priority: optional
+Description: Xilinx MPSoC XRM Encoder Plugin
+
+Package: xrmu30scaler
+Version: 0.0.2
+Architecture: amd64
+Maintainer: Rohit Athavale <rohit.athavale@xilinx.com>
+Installed-Size: 4882
+Depends: xrt (>= 2.3.0)
+Filename: ./xrmU30Scaler-0.0.2-Linux.deb
+Size: 766434
+MD5sum: 5d0de86dc9ab84dfe85fcc3401812863
+SHA1: 568018821be0f243a42615ba97c9e28f9f73f3cf
+SHA256: 7a6dfe51c8a24f773cd3ba3e328d75bc987e176aa4b69c2cf0c13bf9c0b66973
+Section: devel
+Priority: optional
+Description: Xilinx MPSoC XRM Scaler Plugin
+
+Package: xrt
+Version: 2.6.0
+Architecture: amd64
+Maintainer: sonal.santan@xilinx.com
+Installed-Size: 42376
+Depends: ocl-icd-opencl-dev (>= 2.2.0), libboost-dev (>= 1.58), libboost-dev (<< 1.59), libboost-filesystem-dev (>=1.58), libboost-filesystem-dev (<<1.59), libboost-program-options-dev (>=1.58), libboost-program-options-dev (<<1.59), uuid-dev (>= 2.27.1), dkms (>= 2.2.0), libprotoc-dev (>=2.6.1), libssl-dev (>=1.0.2), protobuf-compiler (>=2.6.1), libncurses5-dev (>=6.0), lsb-release, libxml2-dev (>=2.9.1), libyaml-dev (>= 0.1.6), libc6 (>= 2.23), libc6 (<< 2.24), libudev-dev, python3, python3-pip
+Filename: ./xrt_202010.2.6.0_16.04-amd64-xrt.deb
+Size: 7132926
+MD5sum: 4c208b1ddc440ae7e70280c0aae01946
+SHA1: 560248f9a1ea8d1cd941d8cd01624cbd7e97ec04
+SHA256: 3e207ee41cc1d07b129732cf18d8be39bb1201b35411ed4c1b148403e5b98415
+Section: devel
+Priority: optional
+Description: Xilinx RunTime stack for use with Xilinx FPGA platforms
+
+Package: xvbm
+Version: 0.0.3
+Architecture: amd64
+Maintainer: John Nichols <jnichol@xilinx.com>
+Installed-Size: 63
+Depends: xrt (>= 2.1.0)
+Filename: ./xvbm-0.0.3-Linux.deb
+Size: 10062
+MD5sum: b6ba7c37bd6f3bf7ccae0496d1776fe5
+SHA1: 6112aa64786532cef931384a8378440f967e5e35
+SHA256: a7cc3060d100821d64d1d1106c1b4b9413f967cac30e3f282e563683b5f824f1
+Section: devel
+Priority: optional
+Description: Xilinx Video Buffer Manager (XVBM)
+

@@ -1,0 +1,37 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Date: Fri, 04 Dec 2020 23:49:13 UTC
+MD5Sum:
+ 0034ca51634a05d7d4222a8204f40fad             7379 Packages
+ 54649ca074249fb19bd27848352775b1             2556 Packages.gz
+ 554d932df359120b903311823650b19d               36 Release
+SHA1:
+ 4286bdb6f152f7c69a933932cc7320f265bb8ace             7379 Packages
+ 9ea55d7ebd2d50b7a12626a262280dc3639f85b1             2556 Packages.gz
+ 5392b8a110e3807bb83f2b4c5ea9c3f10e8399ec               36 Release
+SHA256:
+ 82b6c2df1af8aef2498548a84ff2b9e5ebcd2f469f255e26ea48a9dcff4f4624             7379 Packages
+ 962da923b0646edc9e77348cf1262725243401be497a0ed1a110d3289170c514             2556 Packages.gz
+ 81ae79bbf66f2e54324f3c5dea8c3d1814654f2c439d6a9d1265eb0bffa8b546               36 Release
+SHA512:
+ c9db8b9b9cda7a5f7baadf10440c81c13fddef1333d01c26bbdf5ddd3524778c40658b1b3af2276b0b8dfa7b2e325dd1dee502244bdfe805a43f842441cdbcc8             7379 Packages
+ 39bcf66fd86ebe7bda37edaf961ec2c059b263c6054495fcf1c8d152341d56de56da7be97dcaa0e66b6ad2a1288eaadb9a64dabedfd99fbe52eae9c3a3edbe89             2556 Packages.gz
+ 4326683f6d07328ba932776f4ca9480ee5f96bfb0aef605e285b2aa4f94fdf86dd563d80c815446eb30c03fd8d48ff4f9f82ff992de8e5f896342213600910f4               36 Release
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJfysy6AAoJEH+y3fkY/re6RhoP/ivZntgi5yJFWoHnc0OayVTi
+nAJ1jHQNHA5IJD1Ny46k63YfZLl6ZoKpp6uDf2B56ohB9DBuzx4mNcRgWl1gkYHs
+wSOWwlHascXlhcJqf6IianNsK5WKi1SiZB9NpkWg5YKM9w/JjE9GBJNf93WR3bu0
+P00cEdiXv56llpNKG+A90pGxM2pwjyqB5BFxubp3LplJsNk+lbGIQR6K2hTF1puA
+9SVvyi8HzFPx/9SW10tA2G2Tigdpnv2ARwa888imz/k+6iS7ULze3YX2yL2q9J4s
+eMejgEPykU39w7YyqTSxfDgxf+8fHwY3DD1YDTlpyCO9/GJ9jk+aPhe8gYxWlIWV
+yHoOk4YZk9J9xm9VekgXtol0CoCLKPugVU7PBZDD/F+/kKXrFwckmuGUt7TZrumk
+g/iMLMA4LzBaiSy8u2OOAMBjOjGJWH+XvGxAbldjnvZag2jDYCfFX3zLepPmlx18
+bus0V9B0T4zdGIyjYfY+SIMxEi9I6NljLq+THYl2wmrKZMwPwubwD2ykmL0j8PGw
+423Ribjv0lADrFFa3dcMLBsH+NFhUdRa8sFBG3y6G2ouzHK6HU7a3p2IOmhbgwYR
+oAh/vMOFF+M/9xS8025HMgt8QTg9IP01wU8UoP9nSOkQhStz1CNP1YnqK30OLCtA
+fvptvjDZK0GnVgk9xr46
+=pzqZ
+-----END PGP SIGNATURE-----
